@@ -29,5 +29,7 @@ This Streamlit app allows users to compress images by reducing the number of col
    pip install -r requirements.txt
 3. Run the Streamlit app:
    streamlit run app.py
-4.Open the app in your browser, upload an image, choose the number of colors, and download your compressed image.
-  
+4. Open the app in your browser, upload an image, choose the number of colors, and download your compressed image.
+
+
+
