@@ -1,0 +1,5 @@
+Python 
+Streamlit
+OpenCV
+NumPy
+Scikit-learn
