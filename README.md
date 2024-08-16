@@ -22,8 +22,8 @@ This Streamlit app allows users to compress images by reducing the number of col
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/lasya-14/image_compression
+   cd image_compression
 2. Intall the required dependencies:
    ```bash
    pip install -r requirements.txt
